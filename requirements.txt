@@ -1,13 +1,10 @@
-# run: pip3 install -r requirements.txt
-# python3 -m venv myenv
-# pip install --upgrade setuptools
 # wheel==0.33.4
 # django==2.2.2
 # python-magic==0.4.15
 # supertools==1.0.1
 # mysqlclient==1.4.2.post1
 # mod-wsgi==4.6.7
-# # mod-wsgi-httpd==2.4.39.1
+# mod-wsgi-httpd==2.4.39.1
 # psutil==5.6.3
 # pylint==2.3.1
 # pdf2image==1.5.4
